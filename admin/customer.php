@@ -1,9 +1,4 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -368,7 +363,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- //inner_content-->
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2017 Esteem. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	 <p>© 2023 | Design by  Ajaynarayanan.S </p>
 </div>	
 <!--copy rights end here-->
 <!-- js -->
